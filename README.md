@@ -73,3 +73,12 @@ PR Requirements:
 Conclusion
 
 These types of pull requests ensure a structured and organized approach to integrating new features into the main branch of a project. Each PR type addresses specific needs, from adding new functionalities to fixing bugs and improving code quality. By following this approach, teams can maintain a high-quality codebase and deliver new features efficiently.
+
+Management System
+
+New Button on the Main Screen
+Functionality Description:
+
+Purpose: To facilitate access to a specific functionality (briefly describe what this functionality is, if applicable).
+Location: Main system screen.
+Functionality: (Describe what the button does, e.g. "When clicked, the button redirects to the attendance tracking page").
