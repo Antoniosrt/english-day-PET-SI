@@ -1,4 +1,4 @@
-# english-day-PET-SI
+# english-day-PET-SI-2024
 This repository will be use to train the members of PET.
 
 When working on a software project, integrating new features into the main branch requires carefully crafted pull requests (PRs). Each type of PR addresses different aspects of the codebase and ensures that new features are added smoothly without disrupting existing functionality. Here are the main types of pull requests that need to be done for the main branch, followed by examples of new features developed for a school exercise.
